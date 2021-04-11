@@ -1,4 +1,4 @@
-# PeerToPeerNetwork
+# CECS 327 - PeerToPeerNetwork Term Project 
 
 The goal of this assignment is to become familiar with peer to peer (P2P)networks and having a client act as a server. You may work on this project in pairs.
 
